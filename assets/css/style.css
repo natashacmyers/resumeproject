@@ -22,6 +22,10 @@
     background-color: #fff;
 }
 
+.bg-color-three-reasons{
+    background-color: #fff;
+}
+
 .ui-menu-color-home {
     background-color: #e67e22;
 }
@@ -84,11 +88,18 @@ h4 {
 
 .section-column {
     display: table-cell;
+<<<<<<< HEAD
     padding: 0 30px 30px;
     float: none;
 }
 
 .history-heading,
+=======
+    padding: 0 3-px 30px;
+    float: none;
+}
+
+>>>>>>> 256101c75741f5e502077ed5f8d718c5a60735dd
 .section-heading {
     font-family: "Exo", sans-serif;
     font-weight: 300;
@@ -96,7 +107,11 @@ h4 {
     margin-bottom: 40px;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------Heading*/
+=======
+/*------------ Heading */
+>>>>>>> 256101c75741f5e502077ed5f8d718c5a60735dd
 
 header {
     margin: 0;
